@@ -24,7 +24,7 @@ Returns all shortened links
 GET /:id
 ```
 
-Return info about a specific link
+Redirects you to the real url of the shortened link
 
 ## Post
 
