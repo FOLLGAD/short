@@ -58,7 +58,7 @@ password: pw123
 ```
 
 ```
-203 No Content
+204 No Content
 ```
 
 Deletes the link at the specific ID
